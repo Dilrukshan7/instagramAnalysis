@@ -809,7 +809,7 @@ export default function App() {
             <Shield size={14} color="var(--success)" /> Your files never leave your device. Processing is 100% local.
           </div>
           <div style={{ borderTop: '1px solid rgba(255, 255, 255, 0.2)', pt: '20px', width: '100%', maxWidth: '300px', margin: '20px auto 0' }}></div>
-          <a href="https://www.blansyn.online" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary)', textDecoration: 'none', fontWeight: '700', fontSize: '1rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
+          <a href="https://www.blansyn.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary)', textDecoration: 'none', fontWeight: '700', fontSize: '1rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
             Developed by Blansyn <ExternalLink size={16} />
           </a>
         </div>

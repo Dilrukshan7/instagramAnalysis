@@ -1,10 +1,10 @@
 # Blansyn Instagram Followers Following Tracker
 
-![Blansyn Branding](https://www.blansyn.online/favicon.ico) <!-- Placeholder for branding if available -->
+![Blansyn Branding](https://www.blansyn.com/favicon.ico) <!-- Placeholder for branding if available -->
 
 A professional, high-performance web application designed to track and manage your Instagram follower relationships with **100% privacy**. 
 
-Developed by [Blansyn](https://www.blansyn.online), this tool processes all your data locally in your browser—your files never leave your device.
+Developed by [Blansyn](https://www.blansyn.com), this tool processes all your data locally in your browser—your files never leave your device.
 
 ## 🚀 Features
 
