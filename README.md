@@ -27,7 +27,7 @@ Developed by [Blansyn](https://www.blansyn.online), this tool processes all your
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/blansyn-instagram-tracker.git
+   git clone https://github.com/Dilrukshan7/instagramAnalysis.git
    cd blansyn-instagram-tracker
    ```
 
@@ -64,7 +64,7 @@ We take privacy seriously. Most Instagram trackers require you to log in with yo
 
 ## 🔗 Links
 
-- **Website**: [www.blansyn.online](https://www.blansyn.online)
+- **Website**: [www.blansyn.com](https://www.blansyn.com)
 - **Support**: Reach out via our website for any inquiries.
 
 ---
