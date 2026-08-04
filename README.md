@@ -64,7 +64,7 @@ We take privacy seriously. Most Instagram trackers require you to log in with yo
 
 ## 🔗 Links
 
-- **Website**: [www.blansyn.com](https://www.blansyn.com)
+- **Website**: [Blansyn](https://www.blansyn.com)
 - **Support**: Reach out via our website for any inquiries.
 
 ---
